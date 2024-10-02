@@ -1,0 +1,1 @@
+export { default } from "file:///Users/mendmaniagmail.com/Documents/mendmania/interviews/betsson/liveboardmania/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
